@@ -9,3 +9,10 @@ This is an analysis of the effects of COVID-19 in Nigeria. Python was used to co
   + Vulnerability Index data for the 37 states in Nigeria
   + Nigeria GDP for each quarter of the year from 2014 to 2020
   + Budget data for each state in Nigeria.
+## Data Cleaning / Transformation 
+The following steps were taken to clean and transform the data.
+* Extracted the daily data for Nigeria from the global COVID-19 daily data using the loc function in Pandas.
+* Converted the columns in the Nigeria COVID-19 daily data to their appropriate data type.
+* Used Pandas diff method to return Nigeria COVID-19 daily new cases.
+* Log transformed the total cases columns to reduce the skewness.
+* Changed the data frame format of the Budget and GDP data using Pandas melt function to enable a more comprehensive plot.
