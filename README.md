@@ -6,6 +6,6 @@ This is an analysis of the effects of COVID-19 in Nigeria. Python was used to co
 * I extracted COVID-19 data across all the 37 states in Nigeria from NCDC website using web scraping with Python.
 * I imported Global COVID-19 daily data on confirmed cases, death and recovered cases from Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) github repository.
 * Ustacky provided me with the following datasets:
-  - Vulnerability Index data for the 37 states in Nigeria
-  - Nigeria GDP for each quarter of the year from 2014 to 2020
-  - Budget data for each state in Nigeria.
+  + Vulnerability Index data for the 37 states in Nigeria
+  + Nigeria GDP for each quarter of the year from 2014 to 2020
+  + Budget data for each state in Nigeria.
