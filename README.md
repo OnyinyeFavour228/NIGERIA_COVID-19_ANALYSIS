@@ -16,3 +16,13 @@ The following steps were taken to clean and transform the data.
 * Used Pandas diff method to return Nigeria COVID-19 daily new cases.
 * Log transformed the total cases columns to reduce the skewness.
 * Changed the data frame format of the Budget and GDP data using Pandas melt function to enable a more comprehensive plot.
+## Data Analysis and Insights 
+Matplotlib and different Seaborn visualization plots were used to examine relationships and explore the data.
+The following insights were obtained:
+* Lagos state had the highest number of cases
+* The highest daily confirmed cases (6158) was recorded on the 22nd of December, 2021
+* The highest daily recovered cases (29084) was recorded on the 3rd of December, 2020
+* There were more confirmed cases and COVID-19 deaths in areas with high population density and epidemiological index
+* There were more confirmed cases and COVID-19 deaths in areas with low socio-economic index and transport availability
+* GDP was highest in the fourth quarter of 2019
+* The budget of Cross River state was the most affected by the COVID-19 with a budget reduction of about 950 billion naira, followed by Lagos state with a budget reduction of about 650 billion naira.
